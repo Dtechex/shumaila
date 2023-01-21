@@ -1,5 +1,5 @@
 import Contact from "@/Components/Contact";
-import Fotter from "@/Components/Fotter";
+import Footer from "@/Components/Footer";
 import Navbar from "@/Components/Navbar";
 import React from "react";
 
@@ -8,7 +8,7 @@ const ContactUs = (props) => {
     <React.Fragment>
       <Navbar />
       <Contact />
-      <Fotter />
+      <Footer />
     </React.Fragment>
   );
 };
