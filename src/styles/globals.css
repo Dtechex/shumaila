@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "mundail-black";
+    src: url("../../assets/mundial-black-tty.otf");
+}
+
+@font-face {
+    font-family: "mundail-bold";
+    src: url("../../assets/mundial-bold-tty.otf");
+}
+
+@font-face {
+    font-family: "mundail-demibold";
+    src: url("../../assets/mundial-demibold-tty.otf");
+}
+
+@font-face {
+    font-family: "mundail-light";
+    src: url("../../assets/mundial-light-tty.otf");
+}
+
+@font-face {
+    font-family: "mundail-regular";
+    src: url("../../assets/mundial-regular-tty.otf");
+}
+
+@font-face {
+    font-family: "mundail-thin";
+    src: url("../../assets/mundial-thin-tty.otf");
+}
+
+.font-mundail-black {
+    font-family: "mundail-black";
+}
+
+.font-mundail-bold {
+    font-family: "mundail-bold";
+}
+
+.font-mundail-demibold {
+    font-family: "mundail-demibold";
+}
+
+.font-mundail-light {
+    font-family: "mundail-light";
+}
+.font-mundail-regular {
+    font-family: "mundail-regular";
+}
+.font-mundail-thin {
+    font-family: "mundail-thin";
+}
