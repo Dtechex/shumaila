@@ -36,7 +36,7 @@ const Contact = () => {
         <div className="pl-2 py-5">
           <div className=" pt-3">
             <label
-              for="name"
+              htmlFor="name"
               className="block text-base font-medium text-[#07074D]"
             >
               Full Name <span className="text-red-500">*</span>
@@ -51,7 +51,7 @@ const Contact = () => {
 
           <div className="pt-3">
             <label
-              for="enquire"
+              htmlFor="enquire"
               className=" block text-base font-medium text-[#07074D]"
             >
               I&apos;m enquiring about
@@ -67,7 +67,7 @@ const Contact = () => {
 
           <div className="pt-3">
             <label
-              for="email"
+              htmlFor="email"
               className=" block text-base font-medium text-[#07074D]"
             >
               Email Address <span className="text-red-500">*</span>
@@ -82,7 +82,7 @@ const Contact = () => {
 
           <div className="pt-3">
             <label
-              for="telephone"
+              htmlFor="telephone"
               className=" block text-base font-medium text-[#07074D]"
             >
               Telephone Number <span className="text-red-500">*</span>
@@ -97,7 +97,7 @@ const Contact = () => {
 
           <div className="pt-3">
             <label
-              for="message"
+              htmlFor="message"
               className="mb-3 block text-base font-medium text-[#07074D]"
             >
               Comments <span className="text-red-500">*</span>
