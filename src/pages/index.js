@@ -1,4 +1,3 @@
-import RedappleFooter from '@/Components/RedappleFooter.jsx'
 import { Inter } from '@next/font/google'
 import Contactus from './Contactus/index.js'
 
